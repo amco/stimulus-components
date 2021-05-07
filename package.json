@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/amco/stimulus-components/issues"
   },
-  "homepage": "https://github.com/amco/stimulus-components#readme"
+  "homepage": "https://github.com/amco/stimulus-components#readme",
+  "dependencies": {
+    "stimulus": "^2.0.0"
+  }
 }
